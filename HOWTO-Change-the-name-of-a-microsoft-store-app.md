@@ -1,10 +1,5 @@
 ﻿# How to Change the Name of a Microsoft Store App
 
-Table of Contents
-
-[TOC]
-
-
 # 1 Getting Started
 
 - Open the app for which you are changing the name....
