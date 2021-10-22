@@ -1,4 +1,6 @@
-﻿# How to Change the Name of a Microsoft Store App
+﻿If you discover a needed correction to this document please make changes and issue a pull request - thank you.
+ 
+ # How to Change the Name of a Microsoft Store App
 
 # 1 Getting Started
 
