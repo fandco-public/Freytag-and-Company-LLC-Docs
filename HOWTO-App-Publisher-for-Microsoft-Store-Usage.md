@@ -1,3 +1,5 @@
+If you discover a needed correction to this document please make changes and issue a pull request - thank you.
+
 # 1 Welcome
 
 Thank you for using App Publisher for Microsoft Store (APfMS).  We at Freytag & Company, LLC (F&CO) hope APfMS helps you have many easy and fast application updates
