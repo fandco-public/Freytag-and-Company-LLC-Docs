@@ -1,7 +1,7 @@
 # FreytagAndCompanyLLCDocs
 The modern documentation service for Freytag &amp; Company, LLC
 
-If you see corrections to these documents please make changes and issue a pull request - thank you.
+If you discover needed corrections to these documents please make changes and issue a pull request - thank you.
 
 # HOWTOs
 
