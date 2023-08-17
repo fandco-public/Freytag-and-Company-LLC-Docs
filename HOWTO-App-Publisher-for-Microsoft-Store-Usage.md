@@ -40,7 +40,7 @@ Updating apps with APfMS takes tens of minutes from start to published-in-the-st
 
 ## 3.2 Archive and Reuse Workflows
 
-APfMS's many fields and choices can be saved and reloaded later.  Even partial work can be saved, reloaded, changed and re-saved.  This means even if everything is not ready for publication at the same time, the workflow can still begin and can preserve parts as they are ready.  
+APfMS's many fields and choices can be saved and reloaded later.  Even partial work can be saved, reloaded, changed and re-saved.  This means even if not everything is ready for publication at the same time, the workflow can still begin and can preserve parts as they are ready.  
 
 When part of your workflow is shared between apps it is possible to reuse the saved publication work from a previous app.  Perhaps some of the pricing should be reused. This is easily done by reloading an old workflow, even a partially-completed one, and filling in and changing entries as necessary.  
 
@@ -102,7 +102,7 @@ Before you can publish to the Microsoft Store there are four requirements:
 
 The above linked instructions must be followed to use the Microsoft Store App Ingestion API.  If you already have a Microsoft Account or a Partner Account skip those steps.  
 
-If you have questions please see the section *2 Support*; Freytag & Co and Microsoft are ready to help.  
+If you have questions please see the section *2 Support*; F&CO and Microsoft are ready to help.  
 
 APfMS needs the Partner ID, Client ID, and Client Secret to authenticate and use the Store API.  Save these credentials in a secure cut-and-paste-able location.  *Keep these credentials private.  Anyone having these credentials can publish to your store.*  
 
