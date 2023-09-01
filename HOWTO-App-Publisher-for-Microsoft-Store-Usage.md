@@ -6,7 +6,7 @@ Thank you for using App Publisher for Microsoft Store (APfMS).  We at Freytag & 
 
 # 2 Support
 
-We want your experience to be a good one.  Please post your questions to https://StackOverflow.com with the abbreviation “APfMS” in the title if you have problems following this guide or using APfMS.  
+We want your experience to be a good one.  Please post your questions to https://StackOverflow.com with the abbreviation “APfMS” in the title if you have problems following this guide or using APfMS.  Or just email us your question to: team@freytag.us.
 
 # 2.1 Microsoft Store Support
 
