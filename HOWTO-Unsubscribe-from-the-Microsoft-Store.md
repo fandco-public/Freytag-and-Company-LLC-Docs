@@ -10,12 +10,14 @@ We want your experience to be a good one.  Please post your questions to team@fr
 
 # 3 Getting Started
 - Open your browser and go to the Microsoft Store website www.microsoft.com.en 
-- On the upper right of the screen, log in by clicking on the icon of a person
+- On the upper right side of the screen, log in by clicking on the icon of a person in a circle.
 - To the right of this icon, access your account by clicking on the blue text, "My Microsoft Account"
+- Log in with your user name and password.
   
 # 4 Managing Subscriptions
-- Access your Microsoft Store subscriptions by going to the upper right of the page and clicking on the three blue dots
-- In the drop-down, look for "Free Subscription to Test"
+- Access your Microsoft Store subscriptions by going to the upper right of the page and clicking on the three blue dots.
+- You will see a drop-down of choices.
+- Select "Free Subscription to Test"
 - Click on the blue word "Manage" on the right hand side of the page
   
 # 5 Turning off Auto-Renew
