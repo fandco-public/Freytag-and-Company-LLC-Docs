@@ -34,5 +34,5 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - You will see a page verifying that you have turned off auto-renew.
 - Click on the blue "Back to subscription"
   
-# 7 Subscription will now expire 
-The final page will show that your subscription expires on a certain date and that auto renew is off. 
+# 7 The Process is Complete
+A final page will appear that says your subscription will expire on a specific date and that auto-renew is off. 
