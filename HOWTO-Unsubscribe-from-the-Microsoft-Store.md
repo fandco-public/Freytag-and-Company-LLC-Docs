@@ -32,7 +32,8 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Click on the blue *Turn off auto-renew* box
   
 # 6 Verification of this Change
-- This is the *Services & Subscriptions > Free Subscription To Test > Turn off auto-renew* page
+- You will now be on the *Services & Subscriptions* page
+- The heading will read *Services & Subscription > Free Subscription To Test > Turn off auto-renew* 
 - You will see *You turned off auto-renew for your Free Subscription to Test subscription*
 - The date your subscription expires will appear in the text below.
 - Click on the blue *Back to subscription* box on the bottom left of the page
