@@ -36,8 +36,10 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Click on the blue box, "Back to subscription"
   
 # 7 Your Unsubscribe is Complete
-- You will be now be directed back to a page headed, "Subscriptions, Free subscriptions to test"
+- You will be now be directed back to a page headed, "All subscriptions, Free Subscriptions to Test"
+- Find the subheading with the blue box icon, "Manage subscriptions",
+- Underneath it will now say, *Auto-renew is off*.
 - Look for a will be a yellow box that says your subscription will not be renewed.
 - The date of the subscriptions expiration will appear below in large, bold type.
-- You will now see the choice to "Turn on Auto-renew in several places on the page.
+- You will now see *Turn on auto-renew* in several places on the page.
   
