@@ -32,7 +32,11 @@ We want your experience to be a good one.  Please post your questions to team@fr
   
 # 6 Verification
 - You will see a page verifying that you have turned off auto-renew.
+- There will be a verificaiton of when your subscription expires.
 - Click on the blue box, "Back to subscription"
   
-# 7 Your Unsubscribe is complete
-You will be now see a page that says your subscription will expire on a specific date and that auto-renew is off. 
+# 7 Your Unsubscribe is Complete
+- You will be now be directed back to the Services and Subscriptions page
+- There will be a yellow box that says your subscription will expire on a specific date.
+- You will now see the choice to "Turn on Auto-renew in two places on the page.
+  
