@@ -17,7 +17,7 @@ We want your experience to be a good one.  Please post your questions to team@fr
 # 4 Managing Subscriptions
 - On the left side of the Manage Subscriptions page, find the blue screen icon that says "Subscriptions"
 - Directy across, on the right side of the page, click on the three blue dots.
-You are now on the Services and Subscriptions page.
+- You are now on the Services and Subscriptions page.
 - Find the blue box icon on the left side of the page that says "Free Subscription to Test".
 - Directly across, on the right side the page, click on the blue word "Manage".
   
