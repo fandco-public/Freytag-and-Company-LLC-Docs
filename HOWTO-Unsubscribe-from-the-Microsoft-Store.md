@@ -22,8 +22,9 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Directly across, on the right side the page, click on the blue word "Manage".
   
 # 5 Turning off Auto-Renew
-- Scroll down until you You will see the "Auto renew" section on the left hand side of the page. 
-- Find the credit card icon, and then select "Change"
+- You will see the Auto-renew section drop down on the left hand side of the page. 
+- Scroll down to find the credit card icon, also on the left side.
+- Underneath this icon, select the blue "Change"
 - Under "Billing history", click "Turn off auto-renew". When a box pops up that asks if you are sure, again select "Turn off auto-renew".
   
 # 6 Verification
