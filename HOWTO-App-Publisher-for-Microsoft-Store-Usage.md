@@ -328,7 +328,7 @@ Checking “No Changes” (#1 below) hides the button associated with the second
 
 ![APfMS_LanguagesFieldsMappingTab_4.5.3.2](/AppPublisherForMicrosoftStore/Assets/HOWTO/APfMS_LanguagesFieldsMappingTab_4.5.3.2.png)
 
-Pressing the button “Select folder containing .resx file(s)…” causes a folder-selection dialog box to appear.  Navigate in your app's source tree to the parent folder having all the language folders (e.g. en-US), holding the per-language RESX/RESW files used in your app.  
+Pressing the button “Select folder containing .resx file(s)…” causes a folder-selection dialog box to appear.  Navigate in your app's source tree to the parent folder with all the language folders (e.g. en-US), holding the per-language RESX/RESW files used in your app.  
 
 The diagram below shows a case where the per-language folders have be pulled together in their own special folder; you may not need to do this.  Now select the folder holding the per-language folders (#1 below).  
 
@@ -338,7 +338,7 @@ The diagram below shows a case where the per-language folders have be pulled tog
 
 Upon selecting the folder containing the per-language RESX files (See #1 below), APfMS reads the contents of these per-language RESX/RESW files.  The screenshot below shows the Arabic RESX/RESW entries (#2 below) that have been defined displayed in light blue under their matching entries.  APfMS will choose as an example for display the alphabetically first language defined; here that is Arabic in an *.ar-SA.resx file.  
 
-The drop-down listboxes (See #3 below) on this tab display the RESX/RESW field mappings that can be assigned automatically.  For example, APfMS will attempt to map "2 ReleaseNotes" to "Publish_ReleaseNotes".  If the mapping does not exist, as in "1 Keywords #1", then the drop-down listbox to right shows the expected term; in this case "Publish_SearchTerm1".  See the Required and Optional tables above for the RESX/RESW field mappings APfMS expects. 
+The drop-down listboxes (See #3 below) on this tab display the RESX/RESW field mappings that can be assigned automatically.  For example, APfMS will attempt to map "2 ReleaseNotes" to "Publish_ReleaseNotes".  If the mapping does not exist, as in "1 Keywords #1", then the drop-down listbox to the right shows the expected term; in this case "Publish_SearchTerm1".  See the Required and Optional tables above for the RESX/RESW field mappings APfMS expects. 
 
 *NOTE: It may be that your app cannot use the default "Publish_" RESX/RESW field name prefix.  If this is the case you can type your desired field name prefix in the "Filter drowdown starting with text" textbox (see #4 below).*
 
@@ -355,7 +355,7 @@ The Microsoft Store requires only two more items for a minimal upload:
 *	at least one screenshot (maximum of ten (10)) and
 *	one of a MSIX, MSIXBUNDLE, MSIXUPLOAD, APPX, APPXBUNDLE, APPXUPLOAD or XAP binary.
 	
-APfMS will auto-search files with the names given below and will ignore the rest.  To be uploaded by APfMS the image files *must* have the names, dimensions, type and size limits noted here:
+APfMS will auto-search files with the names given below and will ignore the rest.  To be uploaded by APfMS the image files *must* have the names, dimensions, type, and size limits noted here:
 
     • Eg. DesktopScreenShot-1, DesktopScreenShot-2 Upto 10 maximum. 
         ◦ 1366 x 768 pixels or larger recommended.
@@ -405,7 +405,7 @@ APfMS will auto-search files with the names given below and will ignore the rest
         ◦ eg. Windows8414x180.png
             ▪ 414 x 180
 
-APfMS needs these files in one folder together.  Use the folder picker opened with the "Browse..." button (see #1 below) to select this folder and load the image file(s) and application binary.  The "Item Type" (see #2 below) and "File Name" (see #3 below) columns are blank until APfMS finds the files needed.  
+APfMS needs these files in one folder together.  Use the folder selector opened with the "Browse..." button (see #1 below) to choose this folder and load the image file(s) and application binary.  The "Item Type" (see #2 below) and "File Name" (see #3 below) columns are blank until APfMS finds the files needed.  
 
 ![APfMS_LanguagesImagesAndApplicationTab_4.6.1](/AppPublisherForMicrosoftStore/Assets/HOWTO/APfMS_LanguagesImagesAndApplicationTab_4.6.1.png)
 
@@ -421,9 +421,9 @@ You are done with all prerequsites and you are ready to use the "Upload" tab to 
 
 ## 4.7 Update to Store
 
-Uploading the app is easy now that APfMS has its: price, language and store translationed text, images, and binary.  Finally, just click "Update to Store" (see below).  No further action is required until upload either succeeds or fails.  This final step usually requires about 40 to 50 minutes as the API checks the uploaded data.  
+Uploading the app is easy now that APfMS has the app's: price, language and store translationed text, images, and binary.  Finally, just click "Update to Store" (see below).  No further action is required until upload either succeeds or fails.  This final step usually requires about 40 to 50 minutes as the API checks the uploaded data.  
 
-*NOTE: the following screenshots are taken from an actual upload containing sensitive information which are covered with "red rectangles."  Do not publicly share screenshots of your "Update to Store" tab.*
+*NOTE: the following screenshots are taken from an actual upload containing sensitive information which is covered with "red rectangles."  Do not publicly share screenshots of your "Update to Store" tab.*
 
 ![APfMS_UpdateToStoreTab_4.7.1](/AppPublisherForMicrosoftStore/Assets/HOWTO/APfMS_UpdateToStoreTab_4.7.1.png)
 
@@ -464,7 +464,7 @@ Whether or not the app upload is successful, the Microsoft Partner Center will s
 
 Early in an upload, to save time, APfMS tries to catch errors that would cause the Store to reject an app.  If the image files do not have the correct dimensions, file size, type, or there is not at least 1 screenshot then APfMS terminates upload with an alert.  The same happens if there is no application binary with the correct extension.  
 
-Sometimes the Store Web Portal changes its app ingestion requirements.  For example, if the "Age Ratings" changes then step #33, "Update to Store", will report "Validation error: InvalidMicrosoftAgeRating."  Usually in all these cases the solution is to open the Web Portal for your app, navigate to the in-progress submission, and complete the form that has mostly been filled out by APfMS.  
+Sometimes the Store Web Portal changes its app ingestion requirements.  For example, if "Age Ratings" changes then step #33, "Update to Store", will report "Validation error: InvalidMicrosoftAgeRating."  Usually in all these cases the solution is to open the Web Portal for your app, navigate to the in-progress submission, and complete the form that has mostly been filled out by APfMS.  
 
 Once all errors are resolved, you can "submit" the app within the portal.  Any further errors should only be due to Store validation requirements.  
 
