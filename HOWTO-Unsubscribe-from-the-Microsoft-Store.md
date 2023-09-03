@@ -10,8 +10,8 @@ We want your experience to be a good one.  Please post your questions to team@fr
 
 # 3 Getting Started
 - Open your browser and go to the Microsoft Store website www.microsoft.com.en 
-- On the upper right side of the screen, log in by clicking on the icon of a person in a circle.
-- To the right of this icon, access your account by clicking on the blue text, "My Microsoft Account"
+- On the upper right side of the screen, click on the icon of a person in a circle.
+- In the drop-down of choices, access your account by clicking on the blue text, "My Microsoft Account"
 - Log in with your user name and password.
   
 # 4 Managing Subscriptions
