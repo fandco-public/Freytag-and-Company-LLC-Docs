@@ -14,7 +14,7 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - To the right of this icon, access your account by clicking on the blue text "My Microsoft Account"
   
 # 4 Managing Subscriptions
-Access your Microsoft Store subscriptions by going to the upper right and clicking on the three blue dots
+- Access your Microsoft Store subscriptions by going to the upper right and clicking on the three blue dots
 - Look for  "Free Subscription to Test" and click on the word "Manage" on the right hand side of the page
   
 # 5 Turning off Auto-Renew
