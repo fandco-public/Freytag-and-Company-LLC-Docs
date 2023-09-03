@@ -11,12 +11,11 @@ We want your experience to be a good one.  Please post your questions to team@fr
 # 3 Getting Started
 - Open your browser and go to the Microsoft Store website www.microsoft.com.en 
 - On the upper right side of the screen, click on the icon of a person in a circle
-- In the drop-down of choices, access your account by clicking on, the blue *My Microsoft Account*
+- In the drop-down of choices, access your account by clicking the blue *My Microsoft Account*
 - Log in with your user name and password
   
 # 4 Managing Subscriptions
-- You are now on the *Manage Subscriptions* page
-- On the left- hand side find the blue screen icon that says *Subscriptions*
+- On the left- hand side of the page find the blue screen icon that says *Subscriptions*
 - Directy across, on the right side of the page, click on the three blue dots
 - It will now take you to the *Services and Subscriptions* page
 - Find the blue four-square box icon on the left side of the page that says *Free Subscription to Test*
