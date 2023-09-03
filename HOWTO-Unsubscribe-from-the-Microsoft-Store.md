@@ -15,7 +15,8 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Log in with your user name and password.
   
 # 4 Managing Subscriptions
-- Access your Microsoft Store subscriptions by going to the upper right of the page and clicking on the three blue dots.
+- Look for the word "Subscriptions
+- Directy across on right of the page, click on the three blue dots.
 - You will see a drop-down of choices.
 - Select "Free Subscription to Test"
 - Click on the blue word "Manage" on the right hand side of the page
