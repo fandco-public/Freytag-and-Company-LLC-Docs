@@ -37,7 +37,7 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Click on the blue box with *Back to subscription*
   
 # 7 Finalizing the Unsubscribe Process
-- You will be now be directed back to a page headed, *All subscriptions, Free Subscriptions to Test*
+- You will be now be directed back to a page headed, *All Subscriptions, Free Subscriptions to Test*
 - Find the subheading with the blue screen icon, *Manage subscriptions*
 - Underneath it will now read, *Auto-renew now off*
 - Look for a yellow box that says *Your Free to Subscribe subscription will expire in one week*
