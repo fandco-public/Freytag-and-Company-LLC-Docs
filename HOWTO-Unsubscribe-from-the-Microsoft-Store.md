@@ -13,16 +13,17 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - On the upper right side of the screen, click on the icon of a person in a circle
 - In the drop-down of choices, access your account by clicking the blue *My Microsoft Account*
 - Log in with your user name and password
+- You will now see your Microsoft Store account page
   
 # 4 Managing Subscriptions
-- On the left- hand side of the page find the blue screen icon that says *Subscriptions*
-- Directy across, on the right side of the page, click on the three blue dots
-- It will now take you to the *Services and Subscriptions* page
+- On the left side of your Microsoft Store account page, find the blue screen icon that says *Subscriptions*
+- Directly across, on the right side of the page, click on the three vertical blue dots
+- This will take you to the *Services and Subscriptions* page
 - Find the blue four-square box icon on the left side of the page that says *Free Subscription to Test*
-- Directly across, on the right side the page, click on the blue *Manage*
+- Directly across, on the right side of the page, click on the blue *Manage*
   
 # 5 Turning off Auto-Renew
-- The *Auto-renew* section now appears on the left hand side of the page
+- The *Auto-renew* section now appears on the left side of the page
 - Scroll down to find the credit card icon, also on the left side
 - Underneath this icon, select the blue *Change*
 - You will now see a list on the left that begins with *Billing history*
@@ -31,8 +32,8 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Click on the blue *Turn off auto-renew* box
   
 # 6 Verification of Changes
-- You will see a page verifying that you have turned off auto-renew
-- There will be a verificaiton of the date your subscription expires
+- You will now see a page verifying that you have turned off auto-renew
+- The date your subscription expires will be underneath.
 - Click on the blue *Back to subscription* box
   
 # 7 Final Confirmation
