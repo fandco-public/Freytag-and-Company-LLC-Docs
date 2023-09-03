@@ -27,7 +27,8 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Underneath this icon, select the blue "Change"
 - You will now see a list on the left that begins with "Billing history",
 - Select "Turn off auto-renew", which is listed second.
-- When a box pops up that asks if you are sure, again select "Turn off auto-renew".
+- A box will appear that asks if you are sure you want to turn off auto-renew.
+- Select the blue box with "Turn off auto-renew".
   
 # 6 Verification
 - You will see a page verifying that you have turned off auto-renew.
