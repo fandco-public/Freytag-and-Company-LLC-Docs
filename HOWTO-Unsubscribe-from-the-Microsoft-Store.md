@@ -15,10 +15,10 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Log in with your user name and password.
   
 # 4 Managing Subscriptions
-- Look for the word "Subscriptions"
-- Directy across on right of the page, click on the three blue dots.
-- Look for the blue box with "Free Subscription to Test" next to it.
-- Directly across the page, click on the blue word "Manage".
+- On the left side of the page, find the blue screen icon that says "Subscriptions"
+- Directy across, on the right side of the page, click on the three blue dots.
+- A new page will appear; find the blue box icon with "Free Subscription to Test" to the right of it.
+- Directly across, on the right side the page, click on the blue word "Manage".
   
 # 5 Turning off Auto-Renew
 - You will see the "Auto renew" section on the left hand side of the page. 
