@@ -9,9 +9,8 @@ In order to unsubcribe from the Microsoft Store, there are a series of steps tha
 We want your experience to be a good one.  Please post your questions to team@freytag.us in the title if you have problems following this guide or using APfMS.  
 
 # 3 User Guide
-Open your browser and go to the Microsoft Store website www.microsoft.com.en
-# 2b
-On the upper right of the screen, log in by clicking on the icon of a person
+# 3a Open your browser and go to the Microsoft Store website www.microsoft.com.en 
+# 3b On the upper right of the screen, log in by clicking on the icon of a person
 # Step 3 
 To the right of this icon, access your account by clicking on the blue text "My Microsoft Account" 
 # Step 4
