@@ -128,10 +128,10 @@ Clicking the "Load Work" button (see #2 below) will present a file selection dia
 
 ![APfMS_LoadAndSaveTab_4.2.1.png](/AppPublisherForMicrosoftStore/Assets/HOWTO/APfMS_LoadAndSaveTab_4.2.1.png)
 
-APfMS's many fields and choices can be saved and reloaded later.  Even partial work can be saved, reloaded, changed and re-saved.  This means even if not everything is ready for publication at the same time, the workflow can still begin to preserve parts as they become ready.  
+APfMS's many fields and choices can be saved and reloaded later.  Even partial work can be saved, reloaded, changed and re-saved.  This means even if  everything isn't ready for publication at the same time, you can preserve your workflow and submit when ready.   
 
-The saved file ZIPs up all the components and configurations to publish an app making every published version an *exact* archival copy of every published version of an app.  
-If several apps are similar then the configuration for one app can be loaded, altered and saved under another name.  This can save considerable time in updating several apps.  
+The saved file ZIPs up all the components and configurations to publish an app, making every published version an *exact* archival copy of every published version of an app.  
+If several apps are similar, then the configuration for one app can be loaded, altered, and saved under another name.  This can save considerable time in updating several apps.  
 
 ## 4.3 Using APfMS – Credentials
 
@@ -164,8 +164,8 @@ The Pricing tab has 5 ways to set your app’s price:
 1. Leaving the existing pricing already defined for your app unchanged.
 2. Setting one app price in your chosen currency.
 3. Showing app price in each country’s currency using the slow-to-update Microsoft rates.
-4. Showing app price in each country’s currency using the weekly updated market rates.
-5. Showing app price in each country’s currency using the local “purchasing power parity” rates.
+4. Showing app price in each country’s currency using the weekly updated market rates generated and updated weekly by APfMS.
+5. Showing app price in each country’s currency using the local “purchasing power parity” rates converted by APfMS
 
 You select each of these 5 pricing options by choosing the element denoted by the red arrow with the number corresponding to the numbered descriptions in screenshot APfMS_PricingTab_1.1 above.
 
@@ -205,7 +205,7 @@ Next choose the currency (#2 below) and price for your app in that currency (#3 
 
 Selecting “Apply Exchange Rates” (see #1 below) to access APfMS’s public currency market exchange rates.  *These rates are updated weekly with each APfMS update.*  
 
-*Many currencies are available under this option (see #2 below) that are not supported by the Microsoft Store.*  We have noticed less well traded or highly volatile currencies, like the Russian ruble and many smaller currencies, are only available through the public currency markets.
+*Many currencies are available under this option (see #2 below) that are not supported by the Microsoft Store.*  We have noticed less well-traded or highly volatile currencies, like the Russian ruble and many smaller currencies, are only available through the public currency markets.
 
 *NOTE: Microsoft rates are presented only by currency, not country, to match the behavior of the Microsoft Store App Ingestion Web Portal.* 
 
@@ -231,19 +231,19 @@ The "Row State" (see 'red circle' below) values can be:
 
 ## 4.5 Using APfMS – Languages – Field Mapping
 
-Multilingual apps are recommended first to users whose computers are configured for a language an app supports.  To translate apps we at F&CO use the automatic translation feature on Microsoft's [Multilingual Application Toolkit](https://docs.microsoft.com/en-us/windows/apps/design/globalizing/use-mat) (see option #3 in that documentation).  We highly recommend you translate your apps.  
+Multilingual apps are recommended first to users whose computers are configured for a language an app supports.  To translate apps, we at F&CO use the automatic translation feature on Microsoft's [Multilingual Application Toolkit](https://docs.microsoft.com/en-us/windows/apps/design/globalizing/use-mat) (see option #3 in that documentation).  We highly recommend you translate your apps.  
 
 Getting each language into the Microsoft Store web ingestion portal is *extremely* laborious.  APfMS makes the publication of multilingual apps as fast as one language.  Just upload one language during your required first *manual* publication of your app.  Then on all subsequent updates use APfMS to include all your remaining languages.  
 
 Microsoft apps specify the text contents of their XAML display elements in XML-formatted \*.RESX or \*.RESW files.  For example, hi-IN (i.e. hindi lanuage with Indian culture) content files will appear in a directory 'hi-in\Resources.resw' file in your UWP project.  The Multilingual Application Toolkit will translate an app's default RESX/W file through a translation "helper" format called [XLF/XLIFF](https://en.wikipedia.org/wiki/XLIFF), into new RESX/RESW files for each desired language translation.
 
-NOTE: **The text of your app's Store Posting should be multilingual to engage users not using your default langauge.  Adding the five (5) fields in section 4.5.2 below to an app's default RESX/RESW file, and creating translated RESX/RESW files will allow APfMS to upload a mutltilingual Store Posting for your app.  See section 4.5.2 below.**
+NOTE: **The text of your app's Store Posting should be multilingual to engage users who are not using your default langauge.  Adding the five (5) fields in section 4.5.2 below to an app's default RESX/RESW file, and creating translated RESX/RESW files will allow APfMS to upload a mutltilingual Store Posting for your app.  See section 4.5.2 below.**
 
 Building your app in Visual Studio converts your app's XLF file(s) into the the RESX/RESW file(s) that your app uses for each display element's content.  Whether your project depends on RESX or RESW doesn't affect APfMS which automatically uses the file type used by your project.  If your app has translations in multiple XLF files then building with Visual Studio will produce a matching RESX/RESW file for each language's XLF file.  
 
 ### 4.5.1 Required and Optional RESX/RESW File Fields
 
-APfMS searches each per-language RESX/RESW file for a few required and many optional fields for these Microsoft Store entries.  **These entries needed to publish in the Microsoft Store must appear in your original XLF file with the prefix "Publish_".**  For example, the required Microsoft Store "Description" text must appear in your XLF file as "Publish_Description".  See the Required and Optional tables below for the full list of Microsoft Store entries that APfMS will read and display for you in this "Languages - Fields Mapping" tab.  
+APfMS searches each per-language RESX/RESW file for a few required (and many optional) fields for these Microsoft Store entries.  **These entries that are necessary to publish in the Microsoft Store must appear in your original XLF file with the prefix "Publish_".**  For example, the required Microsoft Store "Description" text must appear in your XLF file as "Publish_Description".  See the Required and Optional tables below for the full list of Microsoft Store entries that APfMS will read and display for you in this "Languages - Fields Mapping" tab.  
 
 Elements lacking a matching RESX/RESW entry will appear blank.
 
