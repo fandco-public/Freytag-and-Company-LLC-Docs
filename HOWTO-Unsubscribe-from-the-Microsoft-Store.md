@@ -10,7 +10,7 @@ We want your experience to be a good one.  Please post your questions to team@fr
 
 # 3 Getting Started
 - Open your browser and go to the Microsoft Store website www.microsoft.com.en 
-- On the upper right side of the screen, click on the icon of a person in a circle
+- On the upper right side of the screen, click on the icon of the person in a circle
 - In the drop-down of choices, access your account by clicking the blue *My Microsoft Account*
 - Log in with your user name and password
 - You will now see your Microsoft Store account page
