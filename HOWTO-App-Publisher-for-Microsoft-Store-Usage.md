@@ -2,77 +2,75 @@ If you discover a needed correction to this document please make changes and iss
 
 # 1 Welcome
 
-Thank you for using App Publisher for Microsoft Store (APfMS).  We at Freytag & Company, LLC (F&CO) hope APfMS helps you have many easy and fast application updates
+Thank you for using App Publisher for Microsoft Store (APfMS). At Freytag & Company, LLC (F&CO) we hope APfMS helps you have many easy and fast application updates
 
 # 2 Support
 
-We want your experience to be a good one.  Please post your questions to https://StackOverflow.com with the abbreviation “APfMS” in the title if you have problems following this guide or using APfMS.  
+We want your experience to be a good one.  Please post your questions to https://StackOverflow.com with the abbreviation “APfMS” in the title if you have problems following this guide or using APfMS.  Or just email your question to: team@freytag.us.
 
 # 2.1 Microsoft Store Support
 
-For help the first time getting your app into the Microsoft Store, “Windows Developer Support” (https://aka.ms/storesupport, look for the “Contact Us” tab) is your friend.  Do be patient.  They are good people; but may be a little busy.  
+For help the first time getting your app into the Microsoft Store, go to “Windows Developer Support” (https://aka.ms/storesupport, look for the “Contact Us” tab). Be patient.  They are good people, but they are a little busy.  
 
-We are experienced publishing to the Microsoft Store.  If you are stuck, then post you publishing question to the Microsoft Store with the text “PubToMSFTStore” in the title to https://StackOverflow.com.  Note, that is a public forum so please do not post proprietary information in your question.  
+We are experienced with publishing to the Microsoft Store.  If you are stuck, then post your publishing question to the Microsoft Store with the text “PubToMSFTStore” in the title to https://StackOverflow.com.  Note, this is a public forum so please do not post proprietary information in your question.  
 
-# 3 What App Publisher for Microsoft Store (APfMS) Does
+# 3 App Publisher for Microsoft Store (APfMS) Enables You to:
 
-Save you time by:
+- *Publish your apps faster.*  The first time the Microsoft App Store Certification Team reviews your product it can take days.  With App Publisher, updates to your app take minutes or hours.  Read “Fast Publish” below.
 
-- *Publish your apps faster.*  The first time the Microsoft App Store Certification Team reviews your product it can take days.  Updates to your app take minutes or hours.  Read “Fast Publish” below.
+- *Less form filling for similar apps.*  APfMS lets you save, edit, and reuse your app’s publishing configuration in your other apps.  This reduces errors and saves time.  Read “Archive and Reuse Workflows” below.
 
-- *Less form filling for similar apps.*  APfMS lets you save, edit, and reuse your app’s publishing configuration for reuse in your other apps.  This reduces errors and saves time.  Read “Archive and Reuse Workflows” below.
+- *Up-to-date international prices.*  The Microsoft Store updates international prices every few months or more.  APfMS’s prices are updated to a weekly average.  Read “Current Rates” below.
 
-- *Up-to-date international prices.*  The Microsoft Store updates international prices every few months or slower.  APfMS’s prices are updated to a weekly average.  Read “Current Rates” below.
+- *Accurate pricing for each local economy.*  Bread in an expensive country (looking at you Switzerland) costs more than bread elsewhere; it's the same for apps.  APfMS lets you avoid overpricing your app in most countries; read “Purchasing Parity Prices” below.
 
-- *Accurate local prices for each local economy.*  Bread in an expensive country (looking at you Switzerland) costs more dollars than bread elsewhere; same for apps.  APfMS lets you avoid overpricing your app in most countries; read “Purchasing Parity Prices” below.
+- *Publish in all languages.*  Automated translations let you support nearly 100 languages, but it takes days to put that in the App Store using their ingestion portal.  APfMS makes publishing every language as fast as publishing in only one language.  Read “Easy Multilingual Publishing” below.
 
-- *Publish in all languages.*  Automated translations let you support nearly 100 languages but it takes days to put that in the App Store using their ingestion portal.  APfMS makes publishing every language as fast as publishing in only one language.  Read “Easy Multilingual Publishing” below.
-
-APfMS organizes your workflow of getting your app into the Microsoft App Store through its tabs.  As you work from left-to-right through your tabs (Connect, Pricing, Languages – Fields Mapping, Languages – Images and Application, and Update to Store), you also progress to the final step where you actually do “Update (your app) to (the) Store”.  
+APfMS organizes your workflow by getting your app into the Microsoft App Store through its tabs.  As you work from left-to-right through your tabs (Connect, Pricing, Languages – Fields Mapping, Languages – Images and Application, and Update to Store), you also progress to the final step where you actually do “Update (your app) to (the) Store”.  
 
 To assist in your introduction to APfMS we have open-sourced a UWP app called [Open Password Generator](https://github.com/fandco-public/OpenPasswordGenerator); available on GitHub.  The Microsoft Store requires each app use a unique name so you will need to [rename your version of Open Password Generator](https://www.freytag.us/how-to-change-the-name-of-a-microsoft-store-app).  Of course, the F&CO version is named [Open Password Generator](https://www.microsoft.com/en-us/p/open-password-generator/9nblggh0gr80?activetab=pivot:overviewtab).
 
-APfMS only *updates* your app because the Microsoft Store requires initial publication of an app be *manual*.
+APfMS only *updates* your app because the Microsoft Store requires that initial publication of an app is *manual*.
 
 *APfMS does not change anything about your app or its Microsoft Store listing until you actually get to the last tab and “Upload” your package.*
 
 ## 3.1 Fast Publish
 
-Updating apps with APfMS takes a few tens of minutes from start to published-in-the-store.  This constrasts to what can be hours for updates through the Microsoft Store App Ingestion web portal.  We would like to know about your experience; email us at team@freytag.us.  
+Updating apps with APfMS takes tens of minutes from start to published-in-the-store.  This constrasts with what can be hours for updates through the Microsoft Store App Ingestion web portal.  We would like to know about your experience; email us at team@freytag.us.  
 
 ## 3.2 Archive and Reuse Workflows
 
-APfMS's many fields and choices can be saved and reloaded later.  Even partial work can be saved, reloaded, changed and re-saved.  This means even if not everything is ready for publication at the same time, the workflow can still begin to preserve parts as they become ready.  
+APfMS's many fields and choices can be saved and reloaded later.  Even partial work can be saved, reloaded, changed and re-saved.  This means even if everything is not ready for publication at the same time, the workflow can still begin and can preserve parts as they are ready.  
 
-When part of your workflow is shared between apps it is possible to reuse the saved publication work from a previous app.  Perhaps some of the pricing should be reused, easily done by reloading an old workflow, even a partially-completed one, and filling in and changing entries as necessary.  
+When part of your workflow is shared between apps it is possible to reuse the saved publication work from a previous app.  Perhaps some of the pricing should be reused. This is easily done by reloading an old workflow, even a partially-completed one, and filling in and changing entries as necessary.  
 
 For much more detail see "Using APfMS - Load & Save Work" below.
 
 ## 3.3 Current Rates
 
-Every update of APfMS brings the latest "Market" exchange rates.  Not only does APfMS allow more accurate prices in many more local currencies but the prices update more frequently than the "Microsoft" exchange rates ("Microsoft" rates are of course available in APfMS).  
+Every update of APfMS brings the latest "Market" exchange rates.  Not only does APfMS allow more accurate prices in many more local currencies, but the prices update more frequently than the "Microsoft" exchange rates ("Microsoft" rates are of course available in APfMS).  
 
 ## 3.4 Purchasing Parity Prices
 
-We at F&CO use the “PPP Rates” option when pricing our apps and we highly recommend you do the same.  PPP Rates adjust for the local cost of living.  Only with PPP Rates will you be able to price relative to the local price for gum, bread, an appliance, or a motorcycle.  Neither Microsoft or Public Market rates consider what a price “feels” like for a local person.  
+We at F&CO use the “PPP Rates” option when pricing our apps and we highly recommend you do the same.  PPP Rates adjust for the local cost of living.  Only with PPP Rates will you be able to price relative to the local price for milk, bread, an appliance, or a motorcycle.  Neither Microsoft or Public Market rates consider what a price “feels” like for a local person.  
 
 If you are currently pricing in a developed nation’s currency (e.g. the US Dollar), and use either Microsoft or Public Market exchange rates, then in most of the rest of the world your prices will “feel” too high in the lesser-developed nation’s local currency.  This is because Microsoft and Public Market rates reflect large international money movements and not the local cost-of-living.  You will lose sales as a result.  This is why F&CO uses “PPP Rates” to translate our carefully chosen prices into prices that reflect local conditions..  
 
-The limitations of PPP Rates are that they are often years old.  However, local inflation/deflation rates historically do not change very quickly for many countries and that limitation is offset by the sales by not overpricing in weaker currencies with a high local purchasing power.
+The limitations of PPP Rates are that they are often years old.  However, local inflation/deflation rates historically do not change very quickly for many countries and that limitation is offset through increased sales by not overpricing in weaker currencies with a high local purchasing power.
 
-Another limitation of “PPP Rates” is they are not available for the most tiny countries.  For now, selecting "PPP rates" will produce more accurate prices but in only 173 markets while "Market" rates are available in 237 and "Microsoft" rates in 242 markets.  The timeliness and coverage of “PPP Rates” will improve as this feature gains popularity.  
+Another limitation of “PPP Rates” is they are not available for the most small countries.  For now, selecting "PPP rates" will produce more accurate prices but in only 173 markets while "Market" rates are available in 237 and "Microsoft" rates in 242 markets.  The timeliness and coverage of “PPP Rates” will improve as this feature gains popularity.  
 
 ## 3.5 Easy Multilingual Publishing
 
-Loading a multilingual app into the MSFT App Store is incredibly tedious.  Not only must you translate your app but then the app ingestion web portal needs Product Description, Release Notes, Keywords etc., be manually entered for each and every language.  You might do this for two, or maybe three but 100 languages is out of the question.  
+Loading a multilingual app into the MSFT App Store is incredibly tedious.  Not only must you translate your app but then the app ingestion web portal needs Product Description, Release Notes, Keywords etc., be manually entered for each and every language.  You might do this for two or maybe three languages, but 100 is out of the question.  
 
-The “Languages - …” tabs handle all of this.  For your first manual upload you only define the fields for one of your app’s languages.  For subsequent updates, even the day your app is approved, use APfMS to load all your languages with just a few clicks.  
+The APfMS “Languages - …” tabs handle all of this.  For your first manual upload you only define the fields for one of your app’s languages.  For subsequent updates, even the day your app is approved, use APfMS to load all your languages with just a few clicks.  
 
 # 4 Usage
 
-Using APfMS starts with an app already manually uploaded to the Microsoft Store through its App Ingestion Web Portal.  If the app needs sophisticated pricing and/or is multilingual we recommend the first upload use: simple pricing, be published in one language, and only to one market.  This will save an enormous amount of time not typing, and possibly making mistakes, in the Web Portal.  
+Using APfMS starts with an app already manually uploaded to the Microsoft Store through its App Ingestion Web Portal.  If the app needs sophisticated pricing and/or is multilingual we recommend the first upload: use simple pricing, be published in one language, and only to one market.  This will save an enormous amount of time typing, and possibly making mistakes, in the Web Portal.  
 
-To undergo the usual multi-day Store validation, apps must be public as private apps are not reviewed.  Subsequent app reviews by the Store frequently only take hours to complete.  APfMS uploads frequently are reviewed in less than an hour.  The second and subsequent app updates can be done quickly with APfMS so feel free to make it available in all markets while using its pricing and multi-lingual support features.  
+To undergo the usual multi-day Store validation, apps must be public as private apps are not reviewed.  Subsequent app reviews by the Store frequently take hours to complete.  APfMS uploads frequently are reviewed in less than an hour.  The second and subsequent app updates can be done quickly with APfMS, so feel free to make it available in all markets while using its pricing and multi-lingual support features.  
 
 Updating the app should be carried out by filling out the forms on APfMS's tabs from from left-to-right.  Each tab is explained in depth below in sections matching each tab's names:
 
@@ -104,13 +102,13 @@ Before you can publish to the Microsoft Store there are four requirements:
 
 The above linked instructions must be followed to use the Microsoft Store App Ingestion API.  If you already have a Microsoft Account or a Partner Account skip those steps.  
 
-If you have questions please see the section *2 Support*; we and Microsoft are ready to help.  
+If you have questions please see the section *2 Support*; Freytag & Co and Microsoft are ready to help.  
 
 APfMS needs the Partner ID, Client ID, and Client Secret to authenticate and use the Store API.  Save these credentials in a secure cut-and-paste-able location.  *Keep these credentials private.  Anyone having these credentials can publish to your store.*  
 
 The first time an app is published it must be published thorugh the web portal.  For this reason, keep an app's first version simple; use simple pricing, and only publish in one language.  Here are [instructions on publishing your UWP apps to the Store](https://social.technet.microsoft.com/wiki/contents/articles/34483.publish-your-app-to-windows-store.aspx).  
 
-APfMS helps make app updates to version 2.0 easy and fast avoiding many of the UWP publishing steps outlined above.  The API and APfMS can only be used for updates.  As soon as an app is first approved and published in the store, go ahead and get fancy using all the languages and prices for every market.  
+APfMS helps make app updates to version 2.0 easy and fast avoiding many of the UWP publishing steps outlined above.  The Microsoft Store publishing API and APfMS may _only_ be used for updates.  After an app is published the first time through the web portal, you are then free to use APfMS for subscquent updates; go ahead and get fancy using all the languages and prices for every market.  
 
 (APfMS will support Azure Key Vault in a later version).
 
@@ -118,9 +116,9 @@ APfMS helps make app updates to version 2.0 easy and fast avoiding many of the U
 
 ## 4.2 Using APfMS - Load & Save Work
 
-Because APfMS is designed around an app publication workflow it is possible to save your work at any point.  Clicking the "Save Work" button (see #1 below) opens a file save dialog.  Save the configuration under any name at any point in the publication workflow.  
+Because APfMS is designed around an app publication workflow it is possible to save your work at any point.  Clicking the "Save Work" button (see #1 below) opens a file-save dialog.  Save the configuration under any name at any point in the publication workflow.  
 
-The result is kept in a ZIP file with a \*.fsap extension.  Whatever partial work is defined so far, field mappings, app selection, images are all copied and saved into APfMS's FSAP file.  
+The result is kept in a ZIP file with a \*.fsap extension.  Whatever partial work is defined so far, field mappings, app selection, and images are all copied and saved into APfMS's FSAP file.  
 
 After an app is reloaded from a \*.fsap file all selections can be changed and the file can be overwritten or a new FSAP file created.  
 
