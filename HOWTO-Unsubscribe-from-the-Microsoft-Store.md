@@ -72,5 +72,5 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - The date of the subscription expiration will appear below in large, bold type.
 - *Turn on auto-renew* will now appear in blue several times on the page
 
-# You are now unsubscribed from *<name of the subscription that was deleted>*
+# You are now unsubscribed from *&lt;name of the subscription that was deleted&gt;*
   
