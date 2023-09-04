@@ -33,7 +33,7 @@ We want your experience to be a good one.  Please post your questions to team@fr
 ![diagram - on your Microsoft Store account page](/UnsubscribeFromTheMicrosoftStore/delete_subscription_2.1.png)
 
 - This will take you to the *Services and Subscriptions* page
-- Find the blue four-square box icon on the left side of the page that gives the *<name of the subscription to be deleted>*
+- Find the blue four-square box icon on the left side of the page that gives the *&lt;name of the subscription to be deleted&gt;*
 - Directly across, on the right side of the page, click on the blue text reading *Manage*
 ![diagram - manage your subscription](/UnsubscribeFromTheMicrosoftStore/delete_subscription_3.1.png)
 
@@ -68,9 +68,9 @@ We want your experience to be a good one.  Please post your questions to team@fr
 - Underneath it will now read *Auto-renew now off*
 ![diagram - successful unsubscription page](/UnsubscribeFromTheMicrosoftStore/delete_subscription_8.png)
 
-- Look for a yellow box that says *Your Free to Subscribe subscription will expire in one week*
+- Look for a yellow box that says *&lt;name of the subscription that was deleted&gt;*
 - The date of the subscription expiration will appear below in large, bold type.
 - *Turn on auto-renew* will now appear in blue several times on the page
 
-# You are now unsubscribed from *Free Subscriptions to Test*
+# You are now unsubscribed from *<name of the subscription that was deleted>*
   
