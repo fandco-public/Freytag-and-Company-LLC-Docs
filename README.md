@@ -8,3 +8,5 @@ If you discover needed corrections to these documents please make changes and is
 - [HOWTO Use App Publisher for Microsoft Store](HOWTO-App-Publisher-for-Microsoft-Store-Usage.md)
 
 - [HOWTO Change the Name of a Microsoft Store App](HOWTO-Change-the-name-of-a-microsoft-store-app.md)
+
+- [HOWTO Unsubscribe from the Microsoft Store](HOWTO-Unsubscribe-from-the-Microsoft-Store.md)
